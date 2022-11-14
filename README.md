@@ -3,10 +3,10 @@
 >
 >(1) Semester of FORTRAN.
 >
->Reading the book "Learning Perl".
+<!---Reading the book "Learning Perl".
      O'Reilly, Randal L Schwartz, Tom Phoenix & Brian D Foy, Copyright 2005
->
->Setting up VIM to be an IDE for Perl and Python.
+--->
+>Set up VIM to be an IDE for Perl and Python.
 >
 >Enrolled in freeCodeCamp.org course on HTML and CSS.
 <!---
