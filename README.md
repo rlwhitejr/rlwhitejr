@@ -8,7 +8,7 @@
 --->
 >Set up VIM to be an IDE for Perl and Python.
 >
->Enrolled in freeCodeCamp.org course on HTML and CSS.
+>Reading the book "How to Code in Python".
 <!---
 rlwhitejr/rlwhitejr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
